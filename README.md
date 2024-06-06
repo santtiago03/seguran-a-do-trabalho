@@ -32,7 +32,7 @@ Ferramentas e Tecnologias de Segurança
 8
 Exploração de ferramentas e tecnologias utilizadas para garantir a segurança no trabalho de T.I.
 Demonstração de softwares de proteção, firewalls, antivírus, entre outros.
-Práticas de Primeiros Socorros e Emergências
+
 9
 Reflexão sobre a ética no trabalho de T.I. e a responsabilidade dos profissionais.
 Abordagem de casos práticos e dilemas éticos enfrentados no campo da segurança do trabalho em T.I.
